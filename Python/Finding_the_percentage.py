@@ -18,6 +18,7 @@
 #Sample Output 0
 
 #56.00
+
 #Explanation 0
 
 #Marks for Malika are  whose average is 
