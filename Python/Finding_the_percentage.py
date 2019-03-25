@@ -4,8 +4,6 @@
 
 #The first line contains the integer , the number of students. The next  lines contains the name and marks obtained by that student separated by a space. The final line contains the name of a particular student previously listed.
 
-#Constraints
-
 #Output Format
 
 #Print one line: The average of the marks obtained by the particular student correct to 2 decimal places.
@@ -20,6 +18,7 @@
 #Sample Output 0
 
 #56.00
+
 #Explanation 0
 
 #Marks for Malika are  whose average is 
