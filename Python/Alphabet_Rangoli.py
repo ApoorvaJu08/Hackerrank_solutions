@@ -2,7 +2,7 @@
 
 # Different sizes of alphabet rangoli are shown below:
 
-# #size 3
+# size 3
 
 # ----c----
 # --c-b-c--
@@ -10,7 +10,7 @@
 # --c-b-c--
 # ----c----
 
-# #size 5
+# size 5
 
 # --------e--------
 # ------e-d-e------
