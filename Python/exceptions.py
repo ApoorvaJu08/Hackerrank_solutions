@@ -40,8 +40,6 @@
 # The first line contains , the number of test cases. 
 # The next  lines each contain the space separated values of  and .
 
-# Constraints
-
 # Output Format
 
 # Print the value of . 
